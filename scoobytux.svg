@@ -12,9 +12,9 @@
           padding: 40px;
 					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 					display: grid;
-          grid-template-columns: 70% 30%;
+          grid-template-columns: 65% 35%;
 					align-items: center;
-          column-gap: 30px;
+          column-gap: 10px;
 					
           
 					width: 100%;
