@@ -17,10 +17,10 @@
 #### Top Repositories
 
 <a href="https://github.com/scoobytux/Samar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=Samar&theme=dracula" alt="Scoobytux's Samar"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=Samar&theme=dracula&title_color=ffce11" alt="Scoobytux's Samar"/>
 </a>
 <a href="https://github.com/scoobytux/Meipaly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=Meipaly&theme=dracula" alt="Scoobytux's Meipaly"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=Meipaly&theme=dracula&title_color=ffce11" alt="Scoobytux's Meipaly"/>
 </a>
 
 #### and just a funny gif ...😜
