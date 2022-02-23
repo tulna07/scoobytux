@@ -1,4 +1,4 @@
-<img src="svg/scoobytux.svg" width="1200" alt="Scoobytux svg" />
+<img src="scoobytux.svg" width="1200" alt="Scoobytux svg" />
 
 
 
