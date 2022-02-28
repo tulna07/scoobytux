@@ -29,4 +29,4 @@
 
 <img src="images/happy-heart.gif" alt="Happy heart Corgi" width="300" height="380"/>
 
-[nowhere]: #
+[nowhere]: https://github.com/scoobytux
