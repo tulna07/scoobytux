@@ -14,6 +14,8 @@
 
 <br />
 
+---
+
 ### My Stats
 
 ![Scoobytux's GitHub stats](https://github-readme-stats.vercel.app/api?username=scoobytux&theme=dracula&show_icons=true&title_color=ffce11)
