@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 📑 Computer Engineering student at Ho Chi Minh University of Technology
+- 📑 Computer Engineering student at Ho Chi Minh City University of Technology
 - 🎯 I am currently eager to become proficient in front-end web technologies
 - 🎨 Also interested in UX/UI
 
