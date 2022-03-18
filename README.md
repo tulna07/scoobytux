@@ -22,11 +22,11 @@
 
 ### Top Repositories
 
-<a href="https://github.com/scoobytux/Samar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=Samar&theme=dracula&title_color=ffce11" alt="Scoobytux's Samar"/>
+<a href="https://github.com/scoobytux/farmstead">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=farmstead&theme=dracula&title_color=ffce11" alt="Scoobytux's Samar"/>
 </a>
-<a href="https://github.com/scoobytux/Meipaly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=Meipaly&theme=dracula&title_color=ffce11" alt="Scoobytux's Meipaly"/>
+<a href="https://github.com/scoobytux/samar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=samar&theme=dracula&title_color=ffce11" alt="Scoobytux's Farmstead"/>
 </a>
 
 ### and just a funny gif ...😜
