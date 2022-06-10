@@ -1,37 +1,14 @@
-<img src="scoobytux.svg" width="1200" alt="Scoobytux svg" />
+![Header image](https://static.wikia.nocookie.net/marvelmovies/images/5/5e/What_If..._Doctor_Strange_Lost_His_Heart_Instead_of_His_Hands_10.jpeg/revision/latest/scale-to-width-down/1000?cb=20210902164921)
 
-### About Me
+### Hi there 👋
 
-- 📑 Computer Engineering student at Ho Chi Minh City University of Technology
-- 🎯 I am currently eager to become proficient in front-end web technologies
-- 🎨 Also interested in UX/UI
+My name's Tu.
 
-### Languages and Tools
+My major is Computer Engineering which primarily focuses on electrical/electronics‑related courses. However, I have switched my career
+path to Web Development where I found building beautiful, useful and scalable web applications that resolve customers’ problems very
+interesting.
 
-[<img align="left" alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][nowhere]
-[<img align="left" alt="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][nowhere]
-[<img align="left" alt="Sass" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][nowhere]
-[<img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][nowhere]
+I am currently learning front‑end web technologies.
 
-<br />
-
----
-
-### My Stats
-
-![Scoobytux's GitHub stats](https://github-readme-stats.vercel.app/api?username=scoobytux&theme=dracula&show_icons=true&title_color=ffce11)
-
-### Top Repositories
-
-<a href="https://github.com/scoobytux/farmstead">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=farmstead&theme=dracula&title_color=ffce11" alt="Scoobytux's Samar"/>
-</a>
-<a href="https://github.com/scoobytux/samar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scoobytux&repo=samar&theme=dracula&title_color=ffce11" alt="Scoobytux's Farmstead"/>
-</a>
-
-### and just a funny gif ...😜
-
-<img src="images/happy-heart.gif" alt="Happy heart Corgi" width="300" height="380"/>
-
-[nowhere]: https://github.com/scoobytux
+<!-- [![Facebook Badge](https://img.shields.io/badge/-tu.lenguyenanh-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/tu.lenguyenanh/)](https://www.facebook.com/tu.lenguyenanh)
+[![Gmail Badge](https://img.shields.io/badge/-mailto:tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.lna07@gmail.com)](mailto:tu.lna07@gmail.com) -->
