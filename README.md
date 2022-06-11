@@ -10,5 +10,7 @@ interesting.
 
 I am currently learning front‑end web technologies.
 
-<!-- [![Facebook Badge](https://img.shields.io/badge/-tu.lenguyenanh-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/tu.lenguyenanh/)](https://www.facebook.com/tu.lenguyenanh)
-[![Gmail Badge](https://img.shields.io/badge/-mailto:tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.lna07@gmail.com)](mailto:tu.lna07@gmail.com) -->
+Feel free to contact me via:
+
+[![Facebook Badge](https://img.shields.io/badge/-tu.lenguyenanh-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/tu.lenguyenanh/)](https://www.facebook.com/tu.lenguyenanh)
+[![Gmail Badge](https://img.shields.io/badge/-mailto:tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.lna07@gmail.com)](mailto:tu.lna07@gmail.com)
