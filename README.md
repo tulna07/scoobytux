@@ -1,4 +1,4 @@
-![Header image](https://static.wikia.nocookie.net/marvelmovies/images/5/5e/What_If..._Doctor_Strange_Lost_His_Heart_Instead_of_His_Hands_10.jpeg/revision/latest/scale-to-width-down/1000?cb=20210902164921)
+![Header image]([https://static.wikia.nocookie.net/marvelmovies/images/5/5e/What_If..._Doctor_Strange_Lost_His_Heart_Instead_of_His_Hands_10.jpeg/revision/latest/scale-to-width-down/1000?cb=20210902164921](https://i.pinimg.com/originals/c0/52/5f/c0525f09453b498c64f44ca7995d4bfa.jpg))
 
 ### Hi there 👋
 
