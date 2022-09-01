@@ -1,4 +1,4 @@
-![Header image](https://i.pinimg.com/originals/c0/52/5f/c0525f09453b498c64f44ca7995d4bfa.jpg)
+![Header image](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 ### Hi there 👋
 
