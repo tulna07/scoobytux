@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name's Tu.
+My name's Tu (aka Liam).
 
 My major is Computer Engineering which primarily focuses on electrical/electronics‑related courses. However, I have switched my career
 path to Web Development where I found building beautiful, useful and scalable web applications that resolve customers’ problems very
@@ -12,5 +12,6 @@ I am currently learning front‑end web technologies.
 
 Feel free to contact me via:
 
-[![Facebook Badge](https://img.shields.io/badge/-tu.lenguyenanh-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/tu.lenguyenanh/)](https://www.facebook.com/tu.lenguyenanh)
+[![Facebook Badge](https://img.shields.io/badge/-tu.lenguyenanh-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/tu.lenguyenanh/)](https://www.facebook.com/tu.lenguyenanh/)
+[![Linkedin Badge](https://img.shields.io/badge/-liamle07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liamle07/)](https://www.linkedin.com/in/liamle07/)
 [![Gmail Badge](https://img.shields.io/badge/-tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tu.lna07@gmail.com)](mailto:tu.lna07@gmail.com)
