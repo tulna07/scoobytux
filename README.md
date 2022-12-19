@@ -1,4 +1,4 @@
-![Header image](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+<!-- ![Header image](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 ### Hi there 🍂
 
@@ -6,7 +6,7 @@ My name's Tu (aka Liam).
 
 My major is Computer Engineering which primarily focuses on electrical/electronics‑related courses. However, I have switched my career
 path to Web Development where I found building beautiful, useful and scalable web applications that resolve customers’ problems very
-interesting.
+interesting. -->
 
 <!-- Currently, trying to make TypeScript happy 😞
 
