@@ -9,4 +9,4 @@ When not behind a keyboard, I am into listening to music, watching movies, and b
  Feel free to contact me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-liamle07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liamle07/)](https://www.linkedin.com/in/liamle07/)
-[![Gmail Badge](https://img.shields.io/badge/-tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.lna07@gmail.com)](tu.lna07@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tu.lna07@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.lna07@gmail.com)](mailto:tu.lna07@gmail.com)
