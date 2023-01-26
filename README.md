@@ -4,7 +4,7 @@ My name's Tu (aka Liam).
 
 I am a Front-end Web Engineer. I enjoy creating UI/UX-driven products. I am also interested in web performance, best engineering practices and OSS. Currently, my tech stack includes NextJS, ReactJS, and TypeScript.
 
-When not behind a keyboard, I am into listening to music, watching movies, and being lost in my thoughts while driving.
+When not behind a keyboard, I am into listening to music, watching movies, or being lost in my thoughts while driving.
 
  Feel free to contact me via:
 
